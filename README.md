@@ -30,7 +30,7 @@ Usaremos a **CoinGecko API** (versão pública gratuita). Não é necessário ca
 Aqui está o resultado final que vamos construir:
 
 ### 1. Dashboard (Home)
-![Dashboard Principal](./assets/App.png)
+![Dashboard Principal](./assets/app.png)
 *Listagem de moedas com variação de preço em tempo real.*
 
 ### 2. Detalhes da Moeda
